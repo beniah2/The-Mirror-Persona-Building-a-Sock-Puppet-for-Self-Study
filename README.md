@@ -69,17 +69,37 @@ Step 6: Paste the target's url website and proceed with clone.
 <img width="1144" height="206" alt="image" src="https://github.com/user-attachments/assets/f8485b56-7449-4154-b142-6fe43d9fa65a" />
 
 
+## Testing the Attack
+
+ In this stage, the target is prompted to interact with the cloned website in order to mimic a response.  I accomplished this by using the previously constructed sock puppet email address to send an email to my target containing a phishing link, posing as an Instagram support person, in the hopes that the target would interact with the cloned website.
+
+ <img width="616" height="513" alt="image" src="https://github.com/user-attachments/assets/023481d0-f292-4859-9733-f3d3f46b1df0" />
+
+## Result
+
+<img width="865" height="211" alt="image" src="https://github.com/user-attachments/assets/e3a8a15f-4f46-4be2-abb0-8e836d04ca6f" />
 
 
+## Mitigation Techniques
+
+I include defensive steps I used or recommend. These steps protect individuals and organizations. The following are defensive steps to safeguard against phishing;
+
+1. Pause for 30 seconds before clicking any unexpected link.
+
+2. Read the sender address, not just the display name. Check the full domain.
+
+3. Hover over links to preview the URL before clicking. If a preview is unavailable, do not click.
+
+4. Never enter credentials on a site I reached from an unexpected email. Always go to the site by typing the known URL.
+
+5. Use a password manager so I do not type passwords into random sites. The manager fills only recognized domains.
+
+6. Enable multi-factor authentication for every account that supports it.
 
 
+## Final note
 
-
-
-
-
-
-
+This account is a safe, ethical narrative of how I built a lab-only sock puppet for self-study. The story names the tools I used for inspiration. It focuses on learning, measurement, and mitigation.
 
 
 
